@@ -1,4 +1,4 @@
-PHPUnit-Event-Demo
+Hands-On-Writing-Unit-Testing-With-PHPUnit
 ==================
 
 ## Branch: start 
