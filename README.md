@@ -1,4 +1,9 @@
-Hands-On-Writing-Unit-Testing-With-PHPUnit
-==========================================
+PHPUnit-Event-Demo
+==================
 
-練習程式
+## Branch: start 
+
+### 目錄結構
+* src - 程式
+* tests - 測試程式
+* vendor - Composer 套件
